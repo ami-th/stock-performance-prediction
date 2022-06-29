@@ -285,7 +285,7 @@ if selected2 == "Alert":
 
     #opening the image
 
-  image = Image.open('alert.png')
+  image = Image.open('notification.png')
 
 
 
